@@ -2,7 +2,8 @@
 // import DiceGame from './components/DiceGame.jsx'
 // import WeightConverter from './components/WeightConverter.jsx'
 // import Lamp from "./components/Lamp/Lamp"
-import { NoteApp } from "./components/NoteApp"
+// import { NoteApp } from "./components/NoteApp"
+import { TodoApp } from "./components/TodoApp"
 
 
 function App() {
@@ -11,7 +12,8 @@ function App() {
     // <DiceGame />
     // <WeightConverter />
     // <Lamp />
-    <NoteApp/>
+    // <NoteApp/>
+    <TodoApp />
   )
 }
 
